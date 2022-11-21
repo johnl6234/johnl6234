@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnl6234&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnl6234&theme=react&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnl6234&theme=react&hide_border=true&hide=c#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnl6234&theme=react&hide_border=true&hide=C#,CSharp)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=johnl6234&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
